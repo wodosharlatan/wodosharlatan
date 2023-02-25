@@ -15,12 +15,12 @@ const Tom = {
        Created: 3,
        Contributed: 0
     },
-}; // Make sure to star my repository ✨
+}; // Make sure to star my projects ✨
 ```
 
 <h2 align="center"> 🌐 Socials 🌐</h2>
 
-<div>
+<div align="center">
     <a href="https://linkedin.com/in/tomáš-bosák">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a>
@@ -31,7 +31,7 @@ const Tom = {
 
 <h2 align="center"> 💻 Tech Stack 💻 </h2>
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -45,13 +45,27 @@ const Tom = {
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-[![](https://visitcount.itsvg.in/api?id=wodosharlatan&icon=5&color=0)](https://visitcount.itsvg.in)
+<h2 align="center"> 📊 GitHub Stats 📊 </h2>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bosic) 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
+
+
+<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
+
+<div align="center">
+    <a align="center" href="https://buymeacoffee.com/bosic">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
+    </a>
+</div>
+
+
 
 
