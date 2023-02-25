@@ -9,7 +9,7 @@ const Tom = {
     FavouriteLanguage: "Javascript/PHP",
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: 80,
+    TotalCommits: 81,
     Stars: 1,
     Repositories: {
        Created: 3,
@@ -47,7 +47,7 @@ const Tom = {
 
 <h2> 📊 GitHub Stats 📊 </h2>
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
 </div>
