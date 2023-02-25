@@ -22,8 +22,8 @@ const Tom = {
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
 </div>
 
 <h2> 💻 Tech Stack 💻 </h2>
@@ -52,5 +52,5 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sat Feb 25 2023 22:28:08 GMT+0100 (Central European Standard Time) ;-;-->
+<!-- Last updated on Sat Feb 25 2023 22:29:38 GMT+0100 (Central European Standard Time) ;-;-->
 <i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 
