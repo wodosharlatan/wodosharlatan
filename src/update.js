@@ -131,7 +131,8 @@ const Tom = {
 </div>
   
 <!-- Last updated on ${date.toString()} ;-;-->
-<i>Last updated on ${date.getDate()}${
+<div align="center">
+  <i>Last updated on ${date.getDate()}${
     date.getDate() === 1
       ? "st"
       : date.getDate() === 2
@@ -156,7 +157,9 @@ const Tom = {
     ][date.getMonth()]
   } ${date.getFullYear()} using Samsung Smart Refrigerator</i> ${
     special ? special[2] : "🧊"
-  } ${mm === 6 && dd === 5 ? "and... today is my birthday" : ""}`;
+  } ${mm === 6 && dd === 5 ? "and... today is my birthday" : ""}
+</div>
+  `;
 
   //Saving on readme.md
   fs.writeFileSync(ReadMe, text);

@@ -52,5 +52,8 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sat Feb 25 2023 22:37:46 GMT+0100 (Central European Standard Time) ;-;-->
-<i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 
+<!-- Last updated on Sat Feb 25 2023 22:49:48 GMT+0100 (Central European Standard Time) ;-;-->
+<div align="center">
+  <i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 
+</div>
+  
