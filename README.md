@@ -2,14 +2,14 @@
 I'm **Tom**, A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source projects, make sure to check them out.
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
-<h2 align="center"> 💫 About Me 💫</h2>
+<h2> 💫 About Me 💫</h2>
 
 ```js
 const Tom = {
     FavouriteLanguage: "Javascript/PHP",
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: 79,
+    TotalCommits: 80,
     Stars: 1,
     Repositories: {
        Created: 3,
@@ -20,7 +20,7 @@ const Tom = {
 
 <h2> 🌐 Socials 🌐</h2>
 
-<div align="center">
+<div>
     <a href="https://linkedin.com/in/tomáš-bosák">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a>
@@ -31,7 +31,7 @@ const Tom = {
 
 <h2> 💻 Tech Stack 💻 </h2>
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -60,7 +60,7 @@ const Tom = {
 
 <h2> 💰 You can help me by Donating 💰 </h2>
 
-<div align="center">
+<div>
     <a align="center" href="https://buymeacoffee.com/bosic">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
     </a>
