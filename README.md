@@ -45,14 +45,14 @@ const Tom = {
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 
-<h2 align="center"> 📊 GitHub Stats 📊 </h2>
+<h2> 📊 GitHub Stats 📊 </h2>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
 </div>
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
