@@ -1,8 +1,6 @@
 # Hi there 👋 These are some facts about me and my GitHub profile
 I'm **Tom**, A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source projects, make sure to check them out.
   
-Thanks for visiting my GitHub profile. Have a great day ahead!~
-
 <h2 align="center"> 💫 About Me 💫</h2>
 
 ```js
@@ -16,7 +14,7 @@ const Tom = {
        Created: 3,
        Contributed: 0
     },
-}; // Fix This Later
+}; // Thanks for visiting my GitHub profile. Have a great day ahead!~
 ```
 
 
