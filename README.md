@@ -21,7 +21,9 @@ const Tom = {
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
 </div>
 
@@ -44,10 +46,10 @@ const Tom = {
 
 
 
-<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
+<h2> 💰 You can help me by Donating 💰 </h2>
 
-<div align="center">
-    <a href="https://buymeacoffee.com/bosic">
+<div>
+    <a align="center" href="https://buymeacoffee.com/bosic">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
     </a>
 </div>
