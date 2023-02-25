@@ -1,0 +1,13 @@
+{
+  "name": "wodosharlatan",
+  "version": "1.0.0",
+  "description": "my awesome ReadMe",
+  "main": "src/update.js",
+  "repository": "https://github.com/wodosharlatan/wodosharlatan",
+  "author": "wodsharalatan <tombos255@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  }
+}

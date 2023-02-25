@@ -1,25 +1,66 @@
-## Hello World 👋 I'm Tom
+const path = require("path");
+const fetch = require("node-fetch");
+const fs = require("fs");
+
+let stars = 0,
+  page = 1;
+
+let special;
+
+const CountStars = async () => {
+  let StarsData = await fetch(
+    `https://api.github.com/users/wodosharlatan/starred?per_page=100&page=${page}`
+  ).then((res) => res.json());
+  stars += StarsData.length;
+  page++;
+  if (StarsData.length === 100) CountStars();
+  else WriteReadMe();
+};
+
+const WriteReadMe = async () => {
+  //Get ReadMe path
+  const ReadMe = path.join(__dirname, "..", "README.md");
+  const date = new Date();
+
+  //Season Based Emoji
+  let dd = date.getDate(),
+    mm = date.getMonth() + 1;
+
+  if (mm === 12) special = ["⛄", "❄", "🎄"];
+  else if (mm === 6 && dd === 5) special = ["🎉", "🎈", "🎊"];
+
+  //Fetching Info From Github API
+  let UserData = await fetch("https://api.github.com/users/wodosharlatan").then(
+    (res) => res.json()
+  );
+
+  //Creating the text what we gonna save on ReadMe file
+  const text = `## Hello World 👋 I'm Tom
   A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source projects, make sure to check them out.  
 
   Thanks for visiting my GitHub profile. Have a great day ahead!
   
-<h2 align="center"> 💫 About Me 💫</h2>
+<h2 align="center"> ${special ? special[0] : "💫"} About Me ${
+    special ? special[0] : "💫"
+  }</h2>
 
-```js
+\`\`\`js
 const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
     TotalCommits: {{ COMMITS }},
-    Stars: 0,
+    Stars: ${stars},
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // Make sure to star my projects ✨
-```
+\`\`\`
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ${special ? special[1] : "🚀"} My Stats ${
+    special ? special[1] : "🚀"
+  }</h2>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
@@ -55,5 +96,38 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sat Feb 25 2023 21:46:12 GMT+0100 (Central European Standard Time) ;-;-->
-<i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 
+<!-- Last updated on ${date.toString()} ;-;-->
+<i>Last updated on ${date.getDate()}${
+    date.getDate() === 1
+      ? "st"
+      : date.getDate() === 2
+      ? "nd"
+      : date.getDate() === 3
+      ? "rd"
+      : "th"
+  } ${
+    [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ][date.getMonth()]
+  } ${date.getFullYear()} using Samsung Smart Refrigerator</i> ${special ? special[2] : "🧊"} ${
+    mm === 6 && dd === 5 ? "and... today is my birthday" : ""
+  }`;
+
+  //Saving on readme.md
+  fs.writeFileSync(ReadMe, text);
+};
+
+(() => {
+  CountStars();
+})();
