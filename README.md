@@ -1,7 +1,6 @@
 # Hi there 👋 These are some facts about me and my GitHub profile
 
 
-
 # 💫 About Me:
 🔭 I’m currently working on PHP E-shop<br>👯 I’m looking to collaborate on Spotify Clone in Flutter<br>🌱 I’m currently learning JavaScript <br>⚡ Fun fact - The first code I ever wrote was a basic Python calculator in notepad
 
@@ -14,15 +13,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 [![](https://visitcount.itsvg.in/api?id=wodosharlatan&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bosic) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bosic) 
 
 
