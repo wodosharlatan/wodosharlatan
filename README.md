@@ -32,7 +32,7 @@ const Tom = {
 
   
   
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -47,10 +47,12 @@ const Tom = {
 </div>
 
 
-
+<div align="center">
 <h2> 💰 You can help me by Donating 💰 </h2>
+</div>
 
-<div>
+
+<div align="center">
     <a align="center" href="https://buymeacoffee.com/bosic">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
     </a>
