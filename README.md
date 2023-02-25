@@ -18,7 +18,7 @@ const Tom = {
 }; // Make sure to star my projects ✨
 ```
 
-<h2 align="center"> 🌐 Socials 🌐</h2>
+<h2> 🌐 Socials 🌐</h2>
 
 <div align="center">
     <a href="https://linkedin.com/in/tomáš-bosák">
@@ -29,7 +29,7 @@ const Tom = {
     </a>
 </div>
 
-<h2 align="center"> 💻 Tech Stack 💻 </h2>
+<h2> 💻 Tech Stack 💻 </h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
@@ -58,14 +58,12 @@ const Tom = {
 
 
 
-<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
+<h2> 💰 You can help me by Donating 💰 </h2>
 
 <div align="center">
     <a align="center" href="https://buymeacoffee.com/bosic">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
     </a>
 </div>
-
-<h2> Last Update: 25.2.2022 19:55  </h2>
 
 
