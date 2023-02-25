@@ -100,13 +100,13 @@ const Tom = {
   }</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
 </div>
 
-<h2> 💻 Tech Stack 💻 </h2>
 
-<div>
+<h2 align="center"> 💻 Tech Stack 💻 </h2>
+
+<div align="center">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -122,10 +122,10 @@ const Tom = {
 
 
 
-<h2> 💰 You can help me by Donating 💰 </h2>
+<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
 
-<div>
-    <a align="center" href="https://buymeacoffee.com/bosic">
+<div align="center">
+    <a href="https://buymeacoffee.com/bosic">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
     </a>
 </div>
