@@ -1,11 +1,28 @@
 # Hi there 👋 These are some facts about me and my GitHub profile
+I'm **Tom**, A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source projects, make sure to check them out.
+  
+Thanks for visiting my GitHub profile. Have a great day ahead!~
+
+<h2 align="center"> 💫 About Me 💫</h2>
+
+const Tom = {
+    FavouriteLanguage: "Javascript/PHP",
+    Learning: JavaScript,
+    ProjectInMind: Spotify Clone,
+    TotalCommits: 56,
+    Stars: 1,
+    Repositories: {
+       Created: 3,
+       Contributed: 0
+    },
+}; // Fix This Later
 
 
-# 💫 About Me:
-🔭 I’m currently working on PHP E-shop<br>👯 I’m looking to collaborate on Spotify Clone in Flutter<br>🌱 I’m currently learning JavaScript <br>⚡ Fun fact - The first code I ever wrote was a basic Python calculator in notepad
+<h2 align="center"> 🌐 Socials 🌐</h2>
+<a href="https://linkedin.com/in/tomáš-bosák">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomáš-bosák) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20630897) 
 
 # 💻 Tech Stack:
