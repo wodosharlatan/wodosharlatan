@@ -10,7 +10,7 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: 31,
+    TotalCommits: 32,
     Stars: 0,
     Repositories: {
        Created: 3,
@@ -21,9 +21,7 @@ const Tom = {
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
 </div>
 
@@ -46,13 +44,13 @@ const Tom = {
 
 
 
-<h2> 💰 You can help me by Donating 💰 </h2>
+<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
 
-<div>
-    <a align="center" href="https://buymeacoffee.com/bosic">
+<div align="center">
+    <a href="https://buymeacoffee.com/bosic">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
     </a>
 </div>
   
-<!-- Last updated on Sat Feb 25 2023 22:35:34 GMT+0100 (Central European Standard Time) ;-;-->
+<!-- Last updated on Sat Feb 25 2023 22:37:46 GMT+0100 (Central European Standard Time) ;-;-->
 <i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 
