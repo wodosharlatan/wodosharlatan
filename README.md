@@ -20,10 +20,10 @@ const Tom = {
 ```
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
+</div>
 
 
 <h2> 💻 Tech Stack 💻 </h2>
