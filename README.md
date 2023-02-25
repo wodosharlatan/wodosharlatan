@@ -20,13 +20,14 @@ const Tom = {
 
 <h2 align="center"> 🌐 Socials 🌐</h2>
 
-<a href="https://linkedin.com/in/tomáš-bosák">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-<a href="https://stackoverflow.com/users/20630897">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white">
-</a>
-
+<div>
+    <p href="https://linkedin.com/in/tomáš-bosák">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </p>
+    <p href="https://stackoverflow.com/users/20630897">
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white">
+    </p>
+</div>
 
 <h2 align="center"> 💻 Tech Stack 💻 </h2>
 <div>
