@@ -6,7 +6,7 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 ```js
 const Tom = {
-    FavouriteLanguage: "Javascript/PHP",
+    FavouriteLanguage: Javascript/PHP,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
     TotalCommits: 81,
