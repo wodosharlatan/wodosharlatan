@@ -9,7 +9,7 @@ const Tom = {
     FavouriteLanguage: "Javascript/PHP",
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: 56,
+    TotalCommits: 79,
     Stars: 1,
     Repositories: {
        Created: 3,
@@ -66,6 +66,6 @@ const Tom = {
     </a>
 </div>
 
-
+<h2> Last Update: 25.2.2022 19:55  </h2>
 
 
