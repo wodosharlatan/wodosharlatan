@@ -5,6 +5,7 @@ Thanks for visiting my GitHub profile. Have a great day ahead!~
 
 <h2 align="center"> 💫 About Me 💫</h2>
 
+```js
 const Tom = {
     FavouriteLanguage: "Javascript/PHP",
     Learning: JavaScript,
@@ -16,6 +17,7 @@ const Tom = {
        Contributed: 0
     },
 }; // Fix This Later
+```
 
 
 <h2 align="center"> 🌐 Socials 🌐</h2>
