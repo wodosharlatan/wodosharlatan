@@ -10,23 +10,20 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: {{ COMMITS }},
+    TotalCommits: 30,
     Stars: 0,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 3,
+       Contributed: 0,
     },
 }; // Make sure to star my projects ✨
 ```
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
-<p>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
-</p>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 <h2> 💻 Tech Stack 💻 </h2>
@@ -55,5 +52,5 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sat Feb 25 2023 21:46:12 GMT+0100 (Central European Standard Time) ;-;-->
+<!-- Last updated on Sat Feb 25 2023 22:28:08 GMT+0100 (Central European Standard Time) ;-;-->
 <i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 

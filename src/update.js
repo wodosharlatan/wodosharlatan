@@ -4,8 +4,11 @@ const fs = require("fs");
 
 let stars = 0,
   page = 1;
-
 let special;
+
+let reposContributed = 0;
+let commits = 0;
+let reposCreated = 0;
 
 const CountStars = async () => {
   let StarsData = await fetch(
@@ -16,6 +19,40 @@ const CountStars = async () => {
   if (StarsData.length === 100) CountStars();
   else WriteReadMe();
 };
+
+const CountCommits = async () => {
+  let CommitData = await fetch(
+    `https://api.github.com/users/wodosharlatan/events`
+  ).then((res) => res.json());
+  commits = CommitData.filter((event) => event.type === "PushEvent").reduce(
+    (total, event) => total + event.payload.commits.length,
+    0
+  );
+  WriteReadMe();
+};
+
+const CountRepos = async () => {
+  let reposData = await fetch(
+    `https://api.github.com/users/wodosharlatan/repos?per_page=100&page=${page}&sort=created`
+  ).then((res) => res.json());
+  reposCreated += reposData.length;
+
+  let contributedReposData = await fetch(
+    `https://api.github.com/users/wodosharlatan/repos?per_page=100&page=${page}&sort=created&type=owner`
+  ).then((res) => res.json());
+
+  let contributedReposCount = 0;
+  for (let repo of contributedReposData) {
+    contributedReposCount += repo.forks_count;
+  }
+  reposContributed += contributedReposCount;
+
+  page++;
+  if (reposData.length === 100) CountRepos();
+  else WriteReadMe();
+};
+
+
 
 const WriteReadMe = async () => {
   //Get ReadMe path
@@ -49,11 +86,11 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: {{ COMMITS }},
+    TotalCommits: ${commits},
     Stars: ${stars},
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: ${reposCreated},
+       Contributed: ${reposContributed},
     },
 }; // Make sure to star my projects ✨
 \`\`\`
@@ -61,13 +98,10 @@ const Tom = {
 <h2 align="center"> ${special ? special[1] : "🚀"} My Stats ${
     special ? special[1] : "🚀"
   }</h2>
-<p>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
-</p>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodosharlatan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 <h2> 💻 Tech Stack 💻 </h2>
@@ -120,9 +154,9 @@ const Tom = {
       "November",
       "December",
     ][date.getMonth()]
-  } ${date.getFullYear()} using Samsung Smart Refrigerator</i> ${special ? special[2] : "🧊"} ${
-    mm === 6 && dd === 5 ? "and... today is my birthday" : ""
-  }`;
+  } ${date.getFullYear()} using Samsung Smart Refrigerator</i> ${
+    special ? special[2] : "🧊"
+  } ${mm === 6 && dd === 5 ? "and... today is my birthday" : ""}`;
 
   //Saving on readme.md
   fs.writeFileSync(ReadMe, text);
@@ -130,4 +164,12 @@ const Tom = {
 
 (() => {
   CountStars();
+})();
+
+(() => {
+  CountCommits();
+})();
+
+(() => {
+  CountRepos();
 })();
