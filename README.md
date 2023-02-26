@@ -10,7 +10,7 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalPublicCommits: 30,
+    TotalCommits: 29,
     Stars: 1,
     Repositories: {
        Created: 3,
@@ -52,7 +52,7 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sun Feb 26 2023 21:35:45 GMT+0100 (Central European Standard Time) ;-;-->
+<!-- Last updated on Sun Feb 26 2023 21:38:45 GMT+0100 (Central European Standard Time) ;-;-->
 <div align="center">
   <i>Last updated on 26th February 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>

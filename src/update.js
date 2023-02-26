@@ -86,7 +86,7 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalPublicCommits: ${commits},
+    TotalCommits: ${commits},
     Stars: ${stars},
     Repositories: {
        Created: ${reposCreated},
