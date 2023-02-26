@@ -4,7 +4,8 @@ on:
     branches:
       - master
   schedule:
-    - cron: 0 */3 * * *
+    - cron: 0 */8 * * *
+permissions: read-all|write-all
 jobs:
   update:
     runs-on: ubuntu-latest

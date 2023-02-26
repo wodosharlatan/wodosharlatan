@@ -122,7 +122,7 @@ const Tom = {
 
 
 
-<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
+<h2 align="center"> 💰 Help me by Donating 💰 </h2>
 
 <div align="center">
     <a href="https://buymeacoffee.com/bosic">

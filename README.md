@@ -10,7 +10,7 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalPublicCommits: 32,
+    TotalPublicCommits: 33,
     Stars: 0,
     Repositories: {
        Created: 3,
@@ -44,7 +44,7 @@ const Tom = {
 
 
 
-<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
+<h2 align="center"> 💰 Help me by Donating 💰 </h2>
 
 <div align="center">
     <a href="https://buymeacoffee.com/bosic">
@@ -52,7 +52,7 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sun Feb 26 2023 11:08:24 GMT+0100 (Central European Standard Time) ;-;-->
+<!-- Last updated on Sun Feb 26 2023 16:47:52 GMT+0100 (Central European Standard Time) ;-;-->
 <div align="center">
   <i>Last updated on 26th February 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
