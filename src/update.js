@@ -73,7 +73,7 @@ const WriteReadMe = async () => {
 
   //Creating the text what we gonna save on ReadMe file
   const text = `## Hello World 👋 I'm Tom
-  A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source projects, make sure to check them out.  
+  A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
 
   Thanks for visiting my GitHub profile. Have a great day ahead!
   
@@ -86,7 +86,7 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: ${commits},
+    TotalPublicCommits: ${commits},
     Stars: ${stars},
     Repositories: {
        Created: ${reposCreated},

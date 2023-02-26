@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm Tom
-  A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source projects, make sure to check them out.  
+  A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
 
   Thanks for visiting my GitHub profile. Have a great day ahead!
   
@@ -10,7 +10,7 @@ const Tom = {
     FavouriteLanguage: Javascript,
     Learning: JavaScript,
     ProjectInMind: Spotify Clone,
-    TotalCommits: 32,
+    TotalPublicCommits: 32,
     Stars: 0,
     Repositories: {
        Created: 3,
@@ -52,8 +52,8 @@ const Tom = {
     </a>
 </div>
   
-<!-- Last updated on Sat Feb 25 2023 22:49:48 GMT+0100 (Central European Standard Time) ;-;-->
+<!-- Last updated on Sun Feb 26 2023 11:08:24 GMT+0100 (Central European Standard Time) ;-;-->
 <div align="center">
-  <i>Last updated on 25th February 2023 using Samsung Smart Refrigerator</i> 🧊 
+  <i>Last updated on 26th February 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
   
