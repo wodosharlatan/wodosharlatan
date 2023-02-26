@@ -7,7 +7,7 @@ on:
       - master
     types:
       - completed
-permissions: read-all|write-all
+permissions: write-all
 jobs:
   UpdateStatsTemplate:
     runs-on: ubuntu-latest
