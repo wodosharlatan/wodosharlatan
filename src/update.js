@@ -47,7 +47,7 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 \`\`\`js
 const Tom = {
  FavouriteLanguage: Javascript,
- Learning: JavaScript,
+ Learning: React,
  ProjectInMind: Spotify Clone,
  TotalCommits: {{ COMMITS }},
  Stars: ${stars},
