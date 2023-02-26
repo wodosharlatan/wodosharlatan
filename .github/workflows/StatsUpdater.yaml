@@ -7,7 +7,7 @@ on:
     branches: [master]
     types: 
       - completed
-
+permissions: write-all
 jobs:
   UpdateStatsTemplate:
     runs-on: ubuntu-latest
