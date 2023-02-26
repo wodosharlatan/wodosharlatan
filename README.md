@@ -33,5 +33,8 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Sun Feb 26 2023 21:43:38 GMT+0100 (Central European Standard Time) ;-;-->
-<i>Last updated on 26th February 2023 using magic</i> ✨ 
+<!-- Last updated on Sun Feb 26 2023 21:40:23 GMT+0100 (Central European Standard Time) ;-;-->
+<div align="center">
+  <i>Last updated on 26th February 2023 using Samsung Smart Refrigerator</i> 🧊 
+</div>
+  
