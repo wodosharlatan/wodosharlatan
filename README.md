@@ -8,7 +8,7 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 ```js
 const Tom = {
  FavouriteLanguage: Javascript,
- Learning: JavaScript,
+ Learning: React,
  ProjectInMind: Spotify Clone,
  TotalCommits: {{ COMMITS }},
  Stars: NaN,
@@ -52,7 +52,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Sun Feb 26 2023 20:58:53 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Feb 26 2023 21:27:39 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 26th February 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
