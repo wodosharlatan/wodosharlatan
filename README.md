@@ -10,11 +10,11 @@ const Tom = {
  FavouriteLanguage: Javascript,
  Learning: React,
  ProjectInMind: Spotify Clone,
- TotalCommits: {{ COMMITS }},
+ TotalCommits: 123,
  Stars: NaN,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 7,
+    Contributed: 0
  },
 }; // Make sure to star my projects ✨
 ```
