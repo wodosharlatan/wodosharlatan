@@ -9,7 +9,7 @@
   "private": false,
   "dependencies": {
     "fs": "^0.0.1-security",
-    "node-fetch": "^2.6.9",
+    "node-fetch": "^3.0.0",
     "path": "^0.12.7"
   }
 }
