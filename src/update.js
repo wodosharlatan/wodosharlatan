@@ -4,7 +4,6 @@ const fs = require("fs");
 
 let stars = 0,
   page = 1;
-
 let special;
 
 const CountStars = async () => {
@@ -46,7 +45,7 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 \`\`\`js
 const Tom = {
- FavouriteLanguage: Javascript,
+ FavoriteLanguage: Javascript,
  Learning: React,
  ProjectInMind: Spotify Clone,
  TotalCommits: {{ COMMITS }},
@@ -55,7 +54,7 @@ const Tom = {
     Created: {{ REPOSITORIES }},
     Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
-}; // Make sure to star my projects ✨
+}; // My stats as an Epic Object ✨
 \`\`\`
 
 <h2 align="center"> ${special ? special[1] : "🚀"} My Stats ${

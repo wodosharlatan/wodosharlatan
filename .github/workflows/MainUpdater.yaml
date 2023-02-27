@@ -1,11 +1,14 @@
 name: Main ReadMe Updater
+
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: 0 */12 * * *
+    - cron: 0 */5 * * *
+
 permissions: write-all
+
 jobs:
   update:
     runs-on: ubuntu-latest
