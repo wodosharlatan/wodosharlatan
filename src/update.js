@@ -48,7 +48,7 @@ const Tom = {
  FavoriteLanguage: Javascript,
  Learning: React,
  ProjectInMind: Spotify Clone,
- Motto: If you want to win the lottery, you have to make the money to buy a ticket,
+ Motto: Deeds not Words,
  TotalCommits: {{ COMMITS }},
  Stars: {{ STARS }},
  Repositories: {
