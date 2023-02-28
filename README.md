@@ -11,11 +11,11 @@ const Tom = {
  Learning: React,
  ProjectInMind: Spotify Clone,
  Motto: If you want to win the lottery, you have to make the money to buy a ticket,
- TotalCommits: {{ COMMITS }},
- Stars: {{ STARS }},
+ TotalCommits: 149,
+ Stars: 1,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 7,
+    Contributed: 0
  },
 }; // My stats as an Epic Object ✨
 ```
