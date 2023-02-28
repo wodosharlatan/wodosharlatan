@@ -10,11 +10,11 @@ const Tom = {
  FavoriteLanguage: Javascript,
  Learning: React,
  ProjectInMind: Spotify Clone,
- TotalCommits: 141,
+ TotalCommits: {{ COMMITS }},
  Stars: NaN,
  Repositories: {
-    Created: 7,
-    Contributed: 0
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -52,7 +52,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Tue Feb 28 2023 05:08:38 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Feb 28 2023 06:34:42 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 28th February 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
