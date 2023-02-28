@@ -48,7 +48,7 @@ const Tom = {
  FavoriteLanguage: Javascript,
  Learning: React,
  ProjectInMind: Spotify Clone,
- Motto: Deeds not Words,
+ Motto: Deeds Not Words,
  TotalCommits: {{ COMMITS }},
  Stars: {{ STARS }},
  Repositories: {
