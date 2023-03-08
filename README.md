@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm Tom
-A [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF6FF&width=435&lines=Web+Developer;IT+Student;Linux+Enjoyer)](https://git.io/typing-svg) from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
+A [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=750&color=ECF6FF&center=true&vCenter=true&width=200&lines=Web+Developer;IT+Student;Linux+Enjoyer)](https://git.io/typing-svg) from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
 
@@ -11,11 +11,11 @@ const Tom = {
  Learning: React,
  ProjectInMind: Spotify Clone,
  Motto: Deeds Not Words,
- TotalCommits: 210,
- Stars: 1,
+ TotalCommits: {{ COMMITS }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 8,
-    Contributed: 0
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -53,7 +53,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Wed Mar 08 2023 21:01:52 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Mar 08 2023 21:04:33 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 8th March 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
