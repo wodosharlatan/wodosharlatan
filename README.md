@@ -11,11 +11,11 @@ const Tom = {
  Learning: React,
  ProjectInMind: Spotify Clone,
  Motto: Deeds Not Words,
- TotalCommits: {{ COMMITS }},
- Stars: {{ STARS }},
+ TotalCommits: 209,
+ Stars: 1,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 9,
+    Contributed: 0
  },
 }; // My stats as an Epic Object ✨
 ```
