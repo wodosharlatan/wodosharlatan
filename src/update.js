@@ -35,7 +35,7 @@ let UserData = await fetch("https://api.github.com/users/wodosharlatan").then(
 
 //Creating the text what we gonna save on ReadMe file
 const text = `## Hello World 👋 I'm Tom
-A [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=750&color=ECF6FF&center=true&vCenter=true&width=200&lines=Web+Developer;IT+Student;Linux+Enjoyer)](https://git.io/typing-svg) from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
+A [![Typing SVG](https://readme-typing-svg.demolab.com?font=Apple&weight=200&size=16&pause=750&color=ECF6FF&vCenter=true&width=140&height=18&lines=Web+Developer;IT+Student;Linux+Enjoyer)](https://git.io/typing-svg) from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
 
