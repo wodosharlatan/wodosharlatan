@@ -46,8 +46,8 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 \`\`\`js
 const Tom = {
  FavoriteLanguage: Javascript,
- Learning: React,
- ProjectInMind: Spotify Clone,
+ Learning: NodeJS,
+ ProjectInMind: NPM Packages,
  Motto: Deeds Not Words,
  TotalCommits: {{ COMMITS }},
  Stars: {{ STARS }},
