@@ -9,13 +9,13 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 const Tom = {
  FavoriteLanguage: Javascript,
  Learning: NodeJS,
- ProjectInMind: NPM Packages,
+ ProjectInMind: Node Module,
  Motto: Deeds Not Words,
- TotalCommits: 250,
- Stars: 1,
+ TotalCommits: {{ COMMITS }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 8,
-    Contributed: 0
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -53,7 +53,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Mon Mar 13 2023 08:29:13 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Mon Mar 13 2023 08:30:40 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 13th March 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
