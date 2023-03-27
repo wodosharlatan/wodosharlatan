@@ -11,11 +11,11 @@ const Tom = {
  Learning: NodeJS,
  ProjectInMind: Node Module,
  Motto: Deeds Not Words,
- TotalCommits: {{ COMMITS }},
- Stars: {{ STARS }},
+ TotalCommits: 343,
+ Stars: 2,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 7,
+    Contributed: 0
  },
 }; // My stats as an Epic Object ✨
 ```
