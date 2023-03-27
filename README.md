@@ -11,11 +11,11 @@ const Tom = {
  Learning: NodeJS,
  ProjectInMind: Node Module,
  Motto: Deeds Not Words,
- TotalCommits: 343,
- Stars: 2,
+ TotalCommits: {{ COMMITS }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 7,
-    Contributed: 0
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -44,7 +44,7 @@ const Tom = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/node/nodejs-original-wordmark.svg" title="Node" alt="NodeJS" width="40" height="40"/>&nbsp;
+ 
 </div>
 
 
@@ -57,7 +57,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Mon Mar 27 2023 09:33:33 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Mon Mar 27 2023 09:35:11 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 27th March 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
