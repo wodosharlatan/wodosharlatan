@@ -47,7 +47,7 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 const Tom = {
  FavoriteLanguage: Javascript,
  Learning: NodeJS,
- ProjectInMind: Node Module,
+ ProjectInMind: Terminal Based Website,
  Motto: Deeds Not Words,
  TotalCommits: {{ COMMITS }},
  Stars: {{ STARS }},
