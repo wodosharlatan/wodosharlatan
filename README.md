@@ -11,11 +11,11 @@ const Tom = {
  Learning: NodeJS,
  ProjectInMind: Terminal Based Website,
  Motto: Deeds Not Words,
- TotalCommits: 395,
- Stars: 3,
+ TotalCommits: {{ COMMITS }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 8,
-    Contributed: 0
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -58,7 +58,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Thu Mar 30 2023 16:21:06 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Fri Mar 31 2023 01:17:07 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
-<i>Last updated on 30th March 2023 using Samsung Smart Refrigerator</i> 🧊 
+<i>Last updated on 31th March 2023 using Samsung Smart Refrigerator</i> 🧊 
 </div>
