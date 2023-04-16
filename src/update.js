@@ -49,9 +49,9 @@ const Tom = {
  Learning: NodeJS,
  ProjectInMind: Terminal Based Website,
  Motto: Deeds Not Words,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
  TotalCommits: {{ COMMITS }},
  OpenedIssues: {{ ISSUES }},
- OpenedPullRequests: {{ PULL_REQUESTS }},
  Stars: {{ STARS }},
  Repositories: {
     Created: {{ REPOSITORIES }},
