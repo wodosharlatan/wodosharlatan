@@ -50,9 +50,9 @@ const Tom = {
  ProjectInMind: Terminal Based Website,
  Motto: Deeds Not Words,
  TotalCommits: {{ COMMITS }},
- Stars: {{ STARS }},
  OpenedIssues: {{ ISSUES }},
  OpenedPullRequests: {{ PULL_REQUESTS }},
+ Stars: {{ STARS }},
  Repositories: {
     Created: {{ REPOSITORIES }},
     Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
