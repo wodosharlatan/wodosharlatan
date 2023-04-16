@@ -51,6 +51,8 @@ const Tom = {
  Motto: Deeds Not Words,
  TotalCommits: {{ COMMITS }},
  Stars: {{ STARS }},
+ OpenedIssues: {{ ISSUES }},
+ OpenedPullRequests: {{ PULL_REQUESTS }},
  Repositories: {
     Created: {{ REPOSITORIES }},
     Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
