@@ -52,7 +52,6 @@ const Tom = {
  OpenedPullRequests: {{ PULL_REQUESTS }},
  TotalCommits: {{ COMMITS }},
  OpenedIssues: {{ ISSUES }},
- ClosedIssues: {{ CLOSED_ISSUES }},
  Stars: {{ STARS }},
  Repositories: {
     Created: {{ REPOSITORIES }},
