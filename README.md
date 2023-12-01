@@ -3,7 +3,7 @@ A Web Developer from the Czech Republic. I like to code web applications and exp
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
 
-<h2 align="center"> 💫 About Me 💫</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 ```js
 const Tom = {
@@ -11,18 +11,18 @@ const Tom = {
  Learning: NodeJS,
  ProjectInMind: E-Shop,
  Motto: Deeds Not Words,
- OpenedPullRequests: 79,
- TotalCommits: 2167,
- OpenedIssues: 22,
- Stars: 5,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
+ TotalCommits: {{ COMMITS }},
+ OpenedIssues: {{ ISSUES }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 16,
-    Contributed: 5
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
 
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
@@ -60,7 +60,7 @@ const Tom = {
  </a>
 </div>
 
-<!-- Last updated on Thu Nov 30 2023 16:20:18 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Fri Dec 01 2023 01:13:29 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
-<i>Last updated on 30th November 2023 using Samsung Smart Refrigerator</i> 🧊 
+<i>Last updated on 1st December 2023 using Samsung Smart Refrigerator</i> 🎄 
 </div>
