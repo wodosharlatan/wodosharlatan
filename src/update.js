@@ -90,7 +90,7 @@ const Tom = {
  
 </div>
 
-
+<h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
 <!-- Last updated on ${date.toString()} ;-;-->
 <div align="center">
