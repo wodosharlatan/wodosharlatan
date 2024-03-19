@@ -92,14 +92,6 @@ const Tom = {
 
 
 
-<h2 align="center"> 💰 Help me by Donating 💰 </h2>
-
-<div align="center">
- <a href="https://buymeacoffee.com/bosic">
-     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black">
- </a>
-</div>
-
 <!-- Last updated on ${date.toString()} ;-;-->
 <div align="center">
 <i>Last updated on ${date.getDate()}${
