@@ -45,10 +45,9 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 \`\`\`js
 const Tom = {
- FavoriteLanguage: Javascript,
- Learning: NodeJS,
- ProjectInMind: E-Shop,
- Motto: Deeds Not Words,
+ FavoriteLanguage: Laravel,
+ Learning: Java,
+ ProjectInMind: Birthday Reminder,
  OpenedPullRequests: {{ PULL_REQUESTS }},
  TotalCommits: {{ COMMITS }},
  OpenedIssues: {{ ISSUES }},
@@ -87,6 +86,7 @@ const Tom = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
  
 </div>
 
