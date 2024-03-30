@@ -7,17 +7,16 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 ```js
 const Tom = {
- FavoriteLanguage: Javascript,
- Learning: NodeJS,
- ProjectInMind: E-Shop,
- Motto: Deeds Not Words,
- OpenedPullRequests: 84,
- TotalCommits: 3164,
- OpenedIssues: 22,
- Stars: 6,
+ FavoriteLanguage: Laravel,
+ Learning: Java,
+ ProjectInMind: Birthday Reminder,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
+ TotalCommits: {{ COMMITS }},
+ OpenedIssues: {{ ISSUES }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 17,
-    Contributed: 8
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -47,12 +46,13 @@ const Tom = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
  
 </div>
 
 <h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
-<!-- Last updated on Fri Mar 29 2024 16:18:07 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Mar 30 2024 00:30:59 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
-<i>Last updated on 29th March 2024 using Samsung Smart Refrigerator</i> 🧊 
+<i>Last updated on 30th March 2024 using Samsung Smart Refrigerator</i> 🧊 
 </div>
