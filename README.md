@@ -10,13 +10,13 @@ const Tom = {
  FavoriteLanguage: Laravel,
  Learning: Java,
  ProjectInMind: Birthday Reminder,
- OpenedPullRequests: 84,
- TotalCommits: 3596,
- OpenedIssues: 22,
- Stars: 6,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
+ TotalCommits: {{ COMMITS }},
+ OpenedIssues: {{ ISSUES }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 18,
-    Contributed: 7
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -52,7 +52,7 @@ const Tom = {
 
 <h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
-<!-- Last updated on Sat Jun 01 2024 16:18:06 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Jun 02 2024 01:14:30 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
-<i>Last updated on 1st June 2024 using Samsung Smart Refrigerator</i> 🧊 
+<i>Last updated on 2nd June 2024 using Samsung Smart Refrigerator</i> 🧊 
 </div>
