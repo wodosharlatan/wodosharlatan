@@ -10,13 +10,13 @@ const Tom = {
  FavoriteLanguage: Laravel,
  Learning: Java,
  ProjectInMind: Birthday Reminder,
- OpenedPullRequests: {{ PULL_REQUESTS }},
- TotalCommits: {{ COMMITS }},
- OpenedIssues: {{ ISSUES }},
- Stars: {{ STARS }},
+ OpenedPullRequests: 84,
+ TotalCommits: 3738,
+ OpenedIssues: 23,
+ Stars: 6,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 19,
+    Contributed: 6
  },
 }; // My stats as an Epic Object ✨
 ```
