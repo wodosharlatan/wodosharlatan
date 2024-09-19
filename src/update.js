@@ -35,7 +35,7 @@ let UserData = await fetch("https://api.github.com/users/wodosharlatan").then(
 
 //Creating the text what we gonna save on ReadMe file
 const text = `## Hello World 👋 I'm Tom
-A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source, make sure to check them out.  
+A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source and some of them are work related ( you know how it goes I signed a NDA ), make sure to check them out.  
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
 
@@ -45,9 +45,9 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 \`\`\`js
 const Tom = {
- FavoriteLanguage: Laravel,
- Learning: Java,
- ProjectInMind: Birthday Reminder,
+ FavoriteLanguage: PHP,
+ Learning: Symfony,
+ ProjectInMind:  E-commerce,
  OpenedPullRequests: {{ PULL_REQUESTS }},
  TotalCommits: {{ COMMITS }},
  OpenedIssues: {{ ISSUES }},
