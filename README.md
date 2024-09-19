@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm Tom
-A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source and some of them are work related ( you know how it goes I signed a NDA ), make sure to check them out.  
+A Web Developer from the Czech Republic. I like to code web applications and explore the limits of my skills. I have worked on many projects in the past. Some of them are open-source and some of them are work related ( you know how it goes, I signed a NDA ).  
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
 
@@ -9,14 +9,14 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 const Tom = {
  FavoriteLanguage: PHP,
  Learning: Symfony,
- ProjectInMind:  E-commerce,
- OpenedPullRequests: 84,
- TotalCommits: 4236,
- OpenedIssues: 22,
- Stars: 6,
+ ProjectInMind:  Ecommerce,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
+ TotalCommits: {{ COMMITS }},
+ OpenedIssues: {{ ISSUES }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 20,
-    Contributed: 5
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -52,7 +52,7 @@ const Tom = {
 
 <h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
-<!-- Last updated on Thu Sep 19 2024 06:57:10 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Thu Sep 19 2024 06:59:04 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 19th September 2024 using Samsung Smart Refrigerator</i> 🧊 
 </div>
