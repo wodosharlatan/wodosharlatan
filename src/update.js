@@ -29,7 +29,7 @@ if (mm === 12) special = ["⛄", "❄", "🎄"];
 else if (mm === 6 && dd === 5) special = ["🎉", "🎈", "🎊"];
 
 //Fetching Info From Github API
-let UserData = await fetch("https://api.github.com/users/wodosharlatan").then(
+let UserData = await fetch("https://api.github.com/users/tombos").then(
  (res) => res.json()
 );
 
@@ -64,7 +64,7 @@ const Tom = {
 }</h2>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tombos&theme=dark&hide_border=false">
 </div>
 
 
